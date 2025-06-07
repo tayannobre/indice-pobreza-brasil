@@ -1,6 +1,6 @@
 # Índice de Pobreza no Brasil (2012–2022)
 
-Este projeto apresenta uma análise descritiva do índice de pobreza no Brasil, com foco em tendências gerais e por grupos específicos.
+Este projeto apresenta o Índice de pobreza no Brasil, com foco em tendências gerais e por grupos específicos.
 
 ## 🎯 Objetivo
 
